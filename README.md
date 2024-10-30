@@ -1,0 +1,1 @@
+The cannon on the left fires Brownian bullets at regular intervals. The player places vertical blocks with the mouse to intercept the bullets before they hit the wall. Bullets destroy blocks on contact. If a bullet reaches the wall, the player loses one life. The game ends when the player runs out of lives. The player starts with 10 blocks and gets one new block every second.
